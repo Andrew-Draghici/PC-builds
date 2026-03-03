@@ -2,6 +2,7 @@
 Here are all custom built PC's
 
 ## 💻 Legacy Asset: HP Omen 15 (Maintenance & Repair Log)
+![Screenshot_20210225-194753_Video Player (5)](https://github.com/user-attachments/assets/3286effc-d125-4261-ac4a-156072f8f91b)
 
 **Role:** Primary Mobile Workstation (Decommissioned)
 **Mission:** High-performance mobile computing and hardware repair practice.
