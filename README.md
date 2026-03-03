@@ -37,7 +37,7 @@ Here are all custom built PC's
 
 ### 🔬 Root Cause Analysis (RCA) & Troubleshooting
 * **Incident:** System failure to POST following manual RAM frequency adjustment in bios.
-* **Diagnosis:** Observed **Q-Code "E3"** (Initialization Failure). That would mean either the ICM is dead , or a power delivery to the RAM rails porblem , which resulted into changing the platform fully.
+* **Diagnosis:** Observed **Q-Code "E3"** (Initialization Failure). That would mean either the IMC (Integrated Memory Controller) is dead , or a power delivery to the RAM rails porblem , which resulted into changing the platform fully.
 ![bb1a7551-984b-417c-8beb-a1335693be76](https://github.com/user-attachments/assets/7d145033-2678-4304-aa38-225a33cfa900)
 
 * **Verification:** Conducted **MemTest86** yielding **398 hardware errors** on Test 13.
